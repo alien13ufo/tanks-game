@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-09-02T18:24:50.308-04:00
+  initializedAtString: 2019-09-02T18:24:01.404-04:00
+  log:
+  - commitID: 39a10625a6a4d8d9cfe4f936f4e3551010e0eff1
+    mergeA: 
+    mergeB: 
+    authorName: Brian Becker (alienufo)
+    authorEmail: alien13ufo@gmail.com
+    commitEmail: alien13ufo@gmail.com
+    commitName: Brian Becker (alienufo)
+    summary: Revert "Initial commit"
+    description: This reverts commit 51bbc0c67e2ef5c81d698188918ad7e57a6bece5.
+    timeString: 2019-09-02T18:24:49.000-04:00
+    commitTimeString: 2019-09-02T18:24:49.000-04:00
+    changes:
+    - path: .gitattributes
+      fullPath: F:\New Unity Project\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: F:\New Unity Project\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: F:\New Unity Project\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 733e2335840d871dad53afc811b5c51b625f230f
+    mergeA: 
+    mergeB: 
+    authorName: Brian Becker (alienufo)
+    authorEmail: alien13ufo@gmail.com
+    commitEmail: alien13ufo@gmail.com
+    commitName: Brian Becker (alienufo)
+    summary: Revert "first commit"
+    description: This reverts commit 1d1adcd6accb1ef387a9ca860979c05c136e3336.
+    timeString: 2019-09-02T18:24:46.000-04:00
+    commitTimeString: 2019-09-02T18:24:46.000-04:00
+    changes:
+    - path: README.md
+      fullPath: F:\New Unity Project\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 1d1adcd6accb1ef387a9ca860979c05c136e3336
+    mergeA: 
+    mergeB: 
+    authorName: Brian Becker (alienufo)
+    authorEmail: alien13ufo@gmail.com
+    commitEmail: alien13ufo@gmail.com
+    commitName: Brian Becker (alienufo)
+    summary: first commit
+    description: 
+    timeString: 2019-09-02T18:08:15.000-04:00
+    commitTimeString: 2019-09-02T18:08:15.000-04:00
+    changes:
+    - path: README.md
+      fullPath: F:\New Unity Project\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 51bbc0c67e2ef5c81d698188918ad7e57a6bece5
+    mergeA: 
+    mergeB: 
+    authorName: Brian Becker (alienufo)
+    authorEmail: alien13ufo@gmail.com
+    commitEmail: alien13ufo@gmail.com
+    commitName: Brian Becker (alienufo)
+    summary: Initial commit
+    description: 
+    timeString: 2019-09-02T15:37:18.000-04:00
+    commitTimeString: 2019-09-02T15:37:18.000-04:00
+    changes:
+    - path: .gitattributes
+      fullPath: F:\New Unity Project\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: F:\New Unity Project\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: F:\New Unity Project\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
