@@ -12,6 +12,216 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-09-02T18:53:33.748-04:00
-  initializedAtString: 2019-09-02T18:21:18.516-04:00
-  entries: []
+  lastUpdatedAtString: 2019-09-16T08:47:43.887-04:00
+  initializedAtString: 2019-09-15T16:47:27.222-04:00
+  entries:
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: F:\New Unity Project\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: F:\New Unity Project\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\Tank.prefab
+    fullPath: F:\New Unity Project\Assets\Prefabs\Tank.prefab
+    projectPath: Assets\Prefabs\Tank.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\TankExplosion.prefab
+    fullPath: F:\New Unity Project\Assets\Prefabs\TankExplosion.prefab
+    projectPath: Assets\Prefabs\TankExplosion.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Camera\CameraControl.cs
+    fullPath: F:\New Unity Project\Assets\Scripts\Camera\CameraControl.cs
+    projectPath: Assets\Scripts\Camera\CameraControl.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Tank\TankHealth.cs
+    fullPath: F:\New Unity Project\Assets\Scripts\Tank\TankHealth.cs
+    projectPath: Assets\Scripts\Tank\TankHealth.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\UI\UIDirectionControl.cs
+    fullPath: F:\New Unity Project\Assets\Scripts\UI\UIDirectionControl.cs
+    projectPath: Assets\Scripts\UI\UIDirectionControl.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\tanks-tutorial.unity
+    fullPath: F:\New Unity Project\Assets\tanks-tutorial.unity
+    projectPath: Assets\tanks-tutorial.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\assetDatabase3
+    fullPath: F:\New Unity Project\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: F:\New Unity Project\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: F:\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: F:\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: F:\New Unity Project\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: F:\New Unity Project\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: F:\New Unity Project\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\00000000000000009000000000000000
+    fullPath: F:\New Unity Project\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6d\6d0817f08f875f44da22dcbc747d69c0.info
+    fullPath: F:\New Unity Project\Library\metadata\6d\6d0817f08f875f44da22dcbc747d69c0.info
+    projectPath: Library\metadata\6d\6d0817f08f875f44da22dcbc747d69c0.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\83\8326b9dca06e5bc4885942c9371f51f1
+    fullPath: F:\New Unity Project\Library\metadata\83\8326b9dca06e5bc4885942c9371f51f1
+    projectPath: Library\metadata\83\8326b9dca06e5bc4885942c9371f51f1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\88\88aed18ae5498b84bb8411ee4db7802f
+    fullPath: F:\New Unity Project\Library\metadata\88\88aed18ae5498b84bb8411ee4db7802f
+    projectPath: Library\metadata\88\88aed18ae5498b84bb8411ee4db7802f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c5\c54e3c1f18f8cbb49b10f5e2dc8a1865
+    fullPath: F:\New Unity Project\Library\metadata\c5\c54e3c1f18f8cbb49b10f5e2dc8a1865
+    projectPath: Library\metadata\c5\c54e3c1f18f8cbb49b10f5e2dc8a1865
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: F:\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: F:\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project.userprefs
+    fullPath: F:\New Unity Project\New Unity Project.userprefs
+    projectPath: New Unity Project.userprefs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: F:\New Unity Project\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: F:\New Unity Project\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1eff86235f3a5964aa8fa5548570a428
+    fullPath: F:\New Unity Project\Temp\UnityTempFile-1eff86235f3a5964aa8fa5548570a428
+    projectPath: Temp\UnityTempFile-1eff86235f3a5964aa8fa5548570a428
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-33bf042d3caa1144ea0f00ac52bdf62b
+    fullPath: F:\New Unity Project\Temp\UnityTempFile-33bf042d3caa1144ea0f00ac52bdf62b
+    projectPath: Temp\UnityTempFile-33bf042d3caa1144ea0f00ac52bdf62b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-425a11abd0d2ad646a6c585bdd7d55a6
+    fullPath: F:\New Unity Project\Temp\UnityTempFile-425a11abd0d2ad646a6c585bdd7d55a6
+    projectPath: Temp\UnityTempFile-425a11abd0d2ad646a6c585bdd7d55a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5d0c1abe1b8ce31418f135f4bc23509c
+    fullPath: F:\New Unity Project\Temp\UnityTempFile-5d0c1abe1b8ce31418f135f4bc23509c
+    projectPath: Temp\UnityTempFile-5d0c1abe1b8ce31418f135f4bc23509c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-63d40c4314724804e830d00cdc7a0f0d
+    fullPath: F:\New Unity Project\Temp\UnityTempFile-63d40c4314724804e830d00cdc7a0f0d
+    projectPath: Temp\UnityTempFile-63d40c4314724804e830d00cdc7a0f0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6c084503c5066b5419f87835df2f9e46
+    fullPath: F:\New Unity Project\Temp\UnityTempFile-6c084503c5066b5419f87835df2f9e46
+    projectPath: Temp\UnityTempFile-6c084503c5066b5419f87835df2f9e46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-734f725601a73c145ad7536139d42df9
+    fullPath: F:\New Unity Project\Temp\UnityTempFile-734f725601a73c145ad7536139d42df9
+    projectPath: Temp\UnityTempFile-734f725601a73c145ad7536139d42df9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9cde683045a46d846a58be0df3432ab6
+    fullPath: F:\New Unity Project\Temp\UnityTempFile-9cde683045a46d846a58be0df3432ab6
+    projectPath: Temp\UnityTempFile-9cde683045a46d846a58be0df3432ab6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b21a5505c0df66a49a6cb571b6b8fafb
+    fullPath: F:\New Unity Project\Temp\UnityTempFile-b21a5505c0df66a49a6cb571b6b8fafb
+    projectPath: Temp\UnityTempFile-b21a5505c0df66a49a6cb571b6b8fafb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b330231ce9a36ec4dae0c37a91b022d8
+    fullPath: F:\New Unity Project\Temp\UnityTempFile-b330231ce9a36ec4dae0c37a91b022d8
+    projectPath: Temp\UnityTempFile-b330231ce9a36ec4dae0c37a91b022d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
