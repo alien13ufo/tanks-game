@@ -285,6 +285,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114097298367471460, guid: 6d0817f08f875f44da22dcbc747d69c0,
+        type: 2}
+      propertyPath: m_HandleRect
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 224587667013015170, guid: 6d0817f08f875f44da22dcbc747d69c0,
         type: 2}
       propertyPath: m_AnchorMax.x
@@ -293,6 +298,11 @@ Prefab:
     - target: {fileID: 224587667013015170, guid: 6d0817f08f875f44da22dcbc747d69c0,
         type: 2}
       propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224959417608955774, guid: 6d0817f08f875f44da22dcbc747d69c0,
+        type: 2}
+      propertyPath: m_AnchorMax.x
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
